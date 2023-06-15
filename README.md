@@ -20,10 +20,13 @@ THEN I find a concise, descriptive title
 
 ### What Was Changed
 
-* Added the website title
-* Fixed broken internal link
- Added alt attributes to images
-* Refactored HTML to use semantic elements
-* Re-ordered CSS to follow HTML structure
-* Consolidated redundant CSS selectors and properties
-* Removed unnecessary CSS sections# Horiseon-Challenge
+Added the website title
+Added alt attributes to images
+Refactored HTML to use semantic elements
+Fixed broken internal link
+Re-ordered CSS to follow HTML structure
+Consolidated CSS selectors and properties
+Removed some useless CSS sections
+
+### How to Use
+To use and explore visit the index.html website
