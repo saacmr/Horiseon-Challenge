@@ -91,7 +91,7 @@ p {
 }
 
 .content {
-    width: 920px;
+    width: 80%;
     display: inline-block;
     margin-left: 30px;
 }
@@ -109,7 +109,7 @@ p {
     float: right;
     background-color: #2589bd;
     width: 250px;
-    height: 925px;
+    height: 1050px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
